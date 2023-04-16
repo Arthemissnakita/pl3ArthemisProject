@@ -1,7 +1,8 @@
 # pl3ArthemisProject
 
 Programming Language: C Project 
-Title: Cholesterol Ratio Calculator 
+
+Title: Cholesterol Ratio Calculator
 
 Description: 
 A tool that assists people in calculating their cholesterol ratio and the ratio of their "good" cholesterol (HDL) to their "bad" cholesterol (LDL). 
@@ -10,3 +11,4 @@ and it will then give them a result that falls into one of four categories: idea
 has a minimal risk of acquiring heart disease (ideal). Whereas a high cholesterol ratio denotes a significant risk, a good cholesterol ratio denotes an 
 average risk. A high risk of getting heart disease is indicated by an excessive cholesterol ratio. Along with the calculator, the program will also 
 include a diet and exercise plan to promote fitness and a healthier lifestyle.
+
