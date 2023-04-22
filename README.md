@@ -36,4 +36,8 @@ High: 4.0 - 6.0
 
 Too high: > 6.0
 
+Link for the project code flowchart: (https://drive.google.com/file/d/111diFw8jEoMoPaN_RkMwLJt3jRuHuK0C/view)
+
+Link for the project video demo: (https://drive.google.com/file/d/1qUK9JYuROQ19zi56Z20eA_-Dx43CcHMi/view?usp=share_link)
+
 
