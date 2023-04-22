@@ -15,3 +15,19 @@ include a diet and exercise plan to promote fitness and a healthier lifestyle.
 
 Features:
 
+The total cholesterol and ratio values will be simultaneously calculated and displayed after the input of the three measurements.
+A user login and registration system.
+A measurement converter for mmol/L to mg/dL.
+Based on the resulting ratio, the calculator will also show the user an indication of whether or not the results are ideal and its description:
+
+For LDL-HDL ratio:
+Ideal: < 2.0
+Good: < 5.0
+Too high: > 5.0
+
+For Triglycerides-HDL ratio:
+Ideal: < 2.0
+High: 4.0 - 6.0
+Too high: > 6.0
+
+
