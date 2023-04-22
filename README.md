@@ -23,13 +23,17 @@ Based on the resulting ratio, the calculator will also show the user an indicati
 For LDL-HDL ratio:
 
 Ideal: < 2.0
+
 Good: < 5.0
+
 Too high: > 5.0
 
 For Triglycerides-HDL ratio:
 
 Ideal: < 2.0
+
 High: 4.0 - 6.0
+
 Too high: > 6.0
 
 
